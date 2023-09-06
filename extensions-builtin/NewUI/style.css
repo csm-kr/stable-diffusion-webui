@@ -32,8 +32,6 @@
 
 #txt2img_results{
     background-image:url('background.png');
-    /* width: 1024px;
-    height: 1024px; */
     background-size: 100% 100%;
 }
 
