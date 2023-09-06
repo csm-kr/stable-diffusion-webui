@@ -1,2 +1,52 @@
 /* this is style of ui using css */
 /* csm update */
+
+
+/* #txt2img_settings{
+    display: none;
+}
+
+#txt2img_neg_prompt{
+    display: none;
+}
+
+#txt2img_negative_token_counter{
+    display: none;
+}
+
+#txt2img_actions_column{
+    display: none;
+}
+
+#txt2img_generate_box{
+    display: none;
+}
+
+#tab_txt2img{
+    width: 1024px;
+}
+
+#txt2img_prompt{
+    opacity: 0.8;
+}
+
+#txt2img_results{
+    background-image:url('background.png');
+    /* width: 1024px;
+    height: 1024px; */
+    background-size: 100% 100%;
+}
+
+#txt2img_gallery_container{
+    width: 981px;
+    height: 1024px;
+    opacity: 0.5;
+}
+
+#image_buttons_txt2img{
+    display: none;
+}
+
+#download_files_txt2img{
+    display: none;
+} */
